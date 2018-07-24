@@ -1,6 +1,6 @@
-<?php
 <title>AlienX - Ijaz Ur Rahim</title>
 <meta property="og:title" content="AlienX">
+<?php
 if(isset($_GET['action']))
 if($_GET['action']=="Change"){
     if(isset($_GET['path']))
