@@ -1,7 +1,5 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+<meta property="og:title" content="AlienX">
 if(isset($_GET['action']))
 if($_GET['action']=="Change"){
     if(isset($_GET['path']))
