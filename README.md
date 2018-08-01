@@ -42,7 +42,7 @@ Java
 
 # Contact:
 - Facebook (<a href="https://www.facebook.com/muibraheem96" target="_blank">Muhammad Ibraheem</a> or <a href="https://www.facebook.com/MisterDebugger" target="_blank">Ijaz Ur Rahim</a>)
-- Website  (<a href="https://www.ijazurrahim.com/" target="_blank">https://www.ijazurrahim.com/</a>)
+- Website  (<a href="https://www.ijazurrahim.info/" target="_blank">https://www.ijazurrahim.info/</a>)
 - Twitter  (<a href="https://www.twitter.com/muibraheem96" target="_blank">https://www.twitter.com/muibraheem96</a>)
 - linkedln (<a href="https://www.linkedin.com/in/muibraheem96/" target="_blank">https://www.linkedin.com/in/muibraheem96/</a>)
 - instagram(<a href="https://www.instagram.com/muibraheem96/" target="_blank">https://www.instagram.com/muibraheem96/</a>)
