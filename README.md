@@ -42,10 +42,10 @@ Java
 
 # Contact:
 - Facebook (<a href="https://www.facebook.com/muibraheem96" target="_blank">Muhammad Ibraheem</a> or <a href="https://www.facebook.com/MisterDebugger" target="_blank">Ijaz Ur Rahim</a>)
-- Website  (<a href="https://www.ijazurrahim.info/" target="_blank">https://www.ijazurrahim.info/</a>)
+- Website  (<a href="https://www.ijazurrahim.com/" target="_blank">https://www.ijazurrahim.com/</a>)
 - Twitter  (<a href="https://www.twitter.com/muibraheem96" target="_blank">https://www.twitter.com/muibraheem96</a>)
 - linkedln (<a href="https://www.linkedin.com/in/muibraheem96/" target="_blank">https://www.linkedin.com/in/muibraheem96/</a>)
 - instagram(<a href="https://www.instagram.com/muibraheem96/" target="_blank">https://www.instagram.com/muibraheem96/</a>)
-- GitHub   (<a href="https://www.github.com/IJAZ9913" target="_blank">https://www.github.com/IJAZ9913</a>)
+- GitHub   (<a href="https://www.github.com/MrDebugger" target="_blank">https://www.github.com/MrDebugger</a>)
 - Fiverr   (<a href="https://www.fiverr.com/muibraheem96" target="_blank">https://www.fiverr.com/muibraheem96</a>)
 - Email    (<a href="mailto:ijazkhan095@gmail.com" target="_blank">ijazkhan095@gmail.com</a>)
